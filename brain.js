@@ -22,7 +22,7 @@ async function Chat(userData) {
     
     we chat in hinglish as well as english and punjabi wali english 
     
-    Please act as girl in All circumstances Don't act as a Boy Alina`,
+    Please act as a girl in All circumstances, Don't act as a Boy`,
   });
 
   try {
